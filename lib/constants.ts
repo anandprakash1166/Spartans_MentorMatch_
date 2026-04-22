@@ -1,0 +1,17 @@
+export const MENTOR_SKILLS = [
+  "Product Strategy",
+  "UX Design",
+  "Growth",
+  "React",
+  "System Design",
+  "Cloud Architecture",
+  "UI/UX",
+  "Figma",
+  "Design Systems",
+  "Machine Learning",
+  "Python",
+  "Data Strategy",
+  "Leadership",
+  "Agile",
+  "Career Growth",
+];
